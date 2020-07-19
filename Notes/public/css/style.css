@@ -1,0 +1,58 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+ }
+ 
+ h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+ }
+
+  .user-nav{
+    color: #00b0f0 !important;
+  }
+
+
+  .my-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+}
+
+#our-stats{
+  padding: 60px 0;
+}
+
+#our-stats .h1{
+  color: #00b0f0 !important;
+}
+
+#our-stats a{
+  color: #000!important;
+  text-decoration:none;
+}
+#our-stats i{
+  color: #00b0f0 !important;
+}
+
+#our-stats .counter {
+  background-color: #f5f5f5;
+  padding: 35px 0;
+  border-radius: 5px;
+}
+
+#our-stats .counter i,
+#our-stats .counter .count-title{
+  margin-bottom: 15px;
+}
+
+
+#our-stats .counter p{
+  font-style:italic;
+  margin-bottom:0;
+}
+               
+h2{
+  color: #00b0f0;
+}
